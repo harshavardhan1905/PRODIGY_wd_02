@@ -1,0 +1,17 @@
+body{
+    background-color: #0aa37f;
+    align-items: center;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    padding: 20%;
+}
+.head{
+    font-size: 50px;
+    font-style:normal;
+    color: aliceblue;
+}
+.times{
+    padding: 5%;
+}
